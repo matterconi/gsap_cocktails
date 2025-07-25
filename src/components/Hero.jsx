@@ -83,7 +83,7 @@ const Hero = () => {
 				<div className='content'>
 					<div className='space-y-5 hidden md:block'>
 						<p>
-							Barman d'altri tempi
+							Barman al tuo servizio
 						</p>
 						<p className='subtitle'>
 						Cocktail: <br /> La mia Passione
