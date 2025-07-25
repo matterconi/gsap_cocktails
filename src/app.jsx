@@ -11,6 +11,7 @@ const app = () => {
 	<main>
 		<Navbar />
 		<Hero />
+		<Cocktail />
 	</main>
   )
 }
