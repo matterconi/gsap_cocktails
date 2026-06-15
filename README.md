@@ -2,7 +2,7 @@
 
 An animated landing page built as part of the JavaScript Mastery GSAP course, focused on mastering advanced scroll-driven interactions and animation patterns in a real React environment.
 
-![Preview](./preview.png)
+![Uploading Screenshot 2026-06-15 at 12.54.17.png…]()
 
 ## Overview
 
